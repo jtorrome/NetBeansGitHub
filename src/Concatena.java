@@ -10,9 +10,10 @@
 public class Concatena {
 
     public static void main(String[] args) {
-        String a = "hola";
-        String b = " adios";
-        String valor = "hola";
+        //Editado valor variables String
+        String a = "Hello";
+        String b = " Bye";
+        String valor = "Hi!";
 
         valor = valor + " y adiós";
         valor += " y adiós";
