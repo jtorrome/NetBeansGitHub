@@ -5,6 +5,8 @@
  d) a++ / 2 < b && (a++ / 2 > b || (a * 2 < b * 4))
  */
 
+
+
 public class U02E02Ejercicio1 {
 
     public static void main(String[] args) {
